@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lotto - Quick Pick</string>
+    <string name="lotto_num_format">Your lottery numbers are: %s. \n\nThe winning lottery numbers are: %s.</string>
+    <string name="matched_picks_format">Matched: %s</string>
+</resources>
